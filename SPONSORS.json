@@ -1,0 +1,28 @@
+[{
+  "embed": {
+    "description": "Purchase this sponsor slot! Contact `Shakoz#0110` for prices.",
+    "color": 15114050,
+    "footer": {
+      "icon_url": "https://depressive.club/zuf.png",
+      "text": "Sponsor List"
+    },
+    "thumbnail": {
+      "url": "https://depressive.club/zuf.png"
+    },
+    "author": {
+      "name": "Slot for sale",
+      "url": "https://www.roblox.com/users/191339324/profile",
+      "icon_url": "https://depressive.club/zuf.png"
+    },
+    "fields": [
+      {
+        "name": "Profile", 
+        "value": "[**Click Here**](https://www.roblox.com/users/191339324/profile)"
+      },
+      {
+        "name": "Discord Server!", 
+        "value": "[**Click Here**](https://discord.gg/eg3FsUq)"
+      }
+    ]
+  }
+}]
